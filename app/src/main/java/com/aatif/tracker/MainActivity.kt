@@ -83,6 +83,9 @@ class MainActivity : AppCompatActivity() {
             }
 
         }
+
+
+
         binding.downloadApkbtn.setOnClickListener {
 //            if(binding.InstallUnknowSwitch.isChecked && binding.disablePlayNotificationSwitch.isChecked && binding.disablePlayProtect.isChecked ){
 //
